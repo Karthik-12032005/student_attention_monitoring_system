@@ -42,6 +42,10 @@ This repository includes a Windows-based GitHub Actions workflow that:
 - installs Python dependencies
 - validates Python source files with `py_compile`
 
+## Contributing
+
+Contributions are welcome! Please read `CONTRIBUTING.md` for guidelines on how to submit issues and pull requests.
+
 ## Notes
 
 - The application uses the local YOLO model file `yolov8n.pt`.
