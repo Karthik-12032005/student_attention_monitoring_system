@@ -35,6 +35,17 @@ py -m venv venv
 .\venv\Scripts\python.exe main.py
 ```
 
+## Demo & Deployment
+
+This project works best as a desktop AI application because it uses real-time webcam access, YOLO + MediaPipe, and voice alerts.
+
+A full demo guide is available in `DEMO.md` with:
+
+- local desktop app deployment
+- EXE packaging with PyInstaller
+- Streamlit web interface notes
+- cloud deployment caveats
+
 ## GitHub Actions CI
 
 This repository includes a Windows-based GitHub Actions workflow that:
